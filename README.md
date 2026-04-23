@@ -2,7 +2,7 @@
 
 Pluto programming notebooks for the ML lectures of the CFD4Engineers course. Contains
 
-- [notebook1.jl](notebook1.jl): tutorial explaining how neural netoworks operate and comparing them to a coinstricted parametric function such as a paraboloid
+- [notebook1.jl](notebook1.jl): tutorial explaining how neural netoworks operate and comparing them to a constricted parametric function such as a paraboloid
 
 ### Run the notebooks
 
