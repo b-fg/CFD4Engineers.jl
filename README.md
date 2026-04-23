@@ -19,7 +19,7 @@ In the browser that Pluto opens, enter the notebook URL
 https://github.com/b-fg/CFD4Engineers.jl/blob/main/notebook1.jl
 ```
 
-Then click on "Run notebook code", and that's it! The notebook take about 20 minutes to download and install all the dependencies before running the code. Just grab a coffee and start reading it in the meantime ;)
+Then click on **"Run notebook code"**, and that's it! The notebook take about 20 minutes to download and install all the dependencies before running the code. Just grab a coffee and start reading it in the meantime ;)
 
 #### Alternative: Clone this repo and run the local notebook
 You can always just clone this repository, install Pluto following the same procedure as before, and enter the path to the local notebook.jl file.
