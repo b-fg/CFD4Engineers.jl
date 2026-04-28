@@ -3,7 +3,7 @@
 Pluto programming notebooks for the ML lectures of the CFD4Engineers course. Contains
 
 - [notebook1.jl](notebook1.jl): tutorial explaining how neural netoworks operate and comparing them to a constricted parametric function such as a paraboloid
-- [notebook2.jl](notebook2.jl): tutorial building up a finite volume solver for the Burgers equation from scratch, and deriving an optimal implicit subgrid-scale model using automatic differentiation
+- [notebook2.jl](notebook2.jl): tutorial building a finite volume solver for the Burgers equation from scratch, and deriving an optimal implicit subgrid-scale model using automatic differentiation
 
 
 ### Run the notebooks
