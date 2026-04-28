@@ -13,10 +13,14 @@ After installing Julia, open the Julia REPL (terminal), install Pluto, and run a
 import Pkg; Pkg.add("Pluto")
 import Pluto; Pluto.run()
 ```
-In the browser that Pluto opens, enter the notebook URL
+In the browser that Pluto opens, enter the notebook URL. For the first lecture:
 
 ```
 https://github.com/b-fg/CFD4Engineers.jl/blob/main/notebook1.jl
+```
+And for the second lecture:
+```
+https://github.com/b-fg/CFD4Engineers.jl/blob/main/notebook2.jl
 ```
 
 Then click on **"Run notebook code"**, and that's it! The notebook take about 20 minutes to download and install all the dependencies before running the code. Just grab a coffee and start reading it in the meantime ;)
