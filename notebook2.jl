@@ -17,7 +17,7 @@ macro bind(def, element)
 end
 
 # ╔═╡ b933b337-8eaa-4cc5-b8d4-bfe784b8fd0a
-using Printf, Statistics, FFTW, WGLMakie, CircularArrays, Random, LaTeXStrings, Downloads, JLD2, PlutoUI, Optim, ForwardDiff, ADTypes, AbstractFFTs
+using Printf, Statistics, FFTW, GLMakie, CircularArrays, Random, LaTeXStrings, Downloads, JLD2, PlutoUI, Optim, ForwardDiff, ADTypes, AbstractFFTs
 
 # ╔═╡ c483b5f8-da98-43e2-9f61-f5db8e89e9cc
 md"""
